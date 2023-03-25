@@ -1,7 +1,0 @@
-guia para buscar piso:
-- el precio de alquiler: que precio de compra existe en esa zona?, cuantos airbnb hay en la zona?,evolucion del precio del alquiler por m2.
-- Situación del distrito: Crimenes en cada distritio, si puede ser la evolución mejor
-- Conexiones: Lineas de metro, de bus.
-- Facilidades: Mercados, supermercados, polideportivos, piscinas, restaurantes, eventos.
-- Necesidades propias: Universidades cerca, carriles bicis y conexion aeropuertos.
-¿ Cual sería eñ barrio ideal segun estos filtros? ¿cual sería el barrio ideal para mi? ¿cual seria el barrio ideal para mi novia?
